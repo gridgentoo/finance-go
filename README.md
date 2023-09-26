@@ -1,3 +1,6 @@
+##  Оригинальный репозитарий    
+https://github.com/piquette/finance-go    
+
 # finance-go
 
 [![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/piquette/finance-go) [![Build Status](https://travis-ci.org/piquette/finance-go.svg?branch=master)](https://travis-ci.org/piquette/finance-go) [![Coverage Status](https://coveralls.io/repos/github/piquette/finance-go/badge.svg?branch=master)](https://coveralls.io/github/piquette/finance-go?branch=master)
